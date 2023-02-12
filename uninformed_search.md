@@ -2,5 +2,5 @@
 
 | Level             | Eval   | Heuristic  | States Generated | Time/s  | Solution length |
 |-------------------|--------|------------|------------------|---------|-----------------|
-| MAPFslidingpuzzle | A*     | Goal Count | 103 790          | 1,097   | 28              |  
-| MAPFslidingpuzzle | Greedy | Goal Count | < 10 000         | 0,074   | 46              |
+| BFSfriendly       | A*     | Goal Count | 183 223          | 8,640   | 119             |
+| BFSfriendly       | Greedy | Goal Count | < 10 000         | 0,254   | 649             |
